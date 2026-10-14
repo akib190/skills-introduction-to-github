@@ -1,3 +1,6 @@
+
+[![Step 2](https://github.com/akib190/skills-introduction-to-github/actions/workflows/2-commit-a-file.yml/badge.svg)](https://github.com/akib190/skills-introduction-to-github/actions/workflows/2-commit-a-file.yml)
+
 # Introduction to GitHub
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
